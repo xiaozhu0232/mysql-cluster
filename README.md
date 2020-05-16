@@ -1,4 +1,4 @@
-docker-compose构建mysql主从复制集群 
+docker-compose构建mysql主从复制集群   默认用户名 root  密码  111
 ========================
 docker-compose构建 mysql 主从复制(读写分离)集群  
 MySQL master-slave replication with using Docker. 
